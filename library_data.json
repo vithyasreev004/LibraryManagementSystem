@@ -1,0 +1,18 @@
+[
+    {
+        "title": "barbie",
+        "author": "ken",
+        "pubyear": 2020,
+        "isbn": "1234567891012",
+        "borrowed_by": null,
+        "borrowed_date": null
+    },
+    {
+        "title": "The power of positive thinking",
+        "author": "robert",
+        "pubyear": 1990,
+        "isbn": "0987654321134",
+        "borrowed_by": null,
+        "borrowed_date": null
+    }
+]
